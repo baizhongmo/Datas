@@ -36,3 +36,4 @@ public class jiexi : MonoBehaviour {
 		print(theClass.getInstance().num );
 	}
 }
+//gaibiangaibiangaibian
